@@ -15,18 +15,3 @@ TensorFlow
 OpenCV
 Streamlit
 DeepFace
-Installation
-Clone this repository:
-git clone https://github.com/your-username/harassment-detection.git
-cd harassment-detection
-Installation
-Clone this repository:
-git clone https://github.com/your-username/harassment-detection.git
-cd harassment-detection
-Running the App
-Start the Streamlit app:
-streamlit run app.py
-Usage
-Start Webcam: Click the button to start the webcam feed.
-Stop Webcam: Click the button to stop the webcam feed.
-The app will detect harassment in real-time, display the identified perpetrator and victim, and show the dominant emotion.
